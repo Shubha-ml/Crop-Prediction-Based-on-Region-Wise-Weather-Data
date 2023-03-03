@@ -1,0 +1,216 @@
+State_Name,District_Name,Crop_Year,Season,Crop,Area,Production,Temparetue,Rainfall,Humidity,Sun hours
+West Bengal,HOWRAH,2009,Autumn     ,Rice,3652,8259,27,395,85,8
+West Bengal,HOWRAH,2009,Kharif     ,Dry ginger,41,62,28,1369,85,8.5
+West Bengal,HOWRAH,2009,Kharif     ,Jute,6220,108127,28,1369,85,8.5
+West Bengal,HOWRAH,2009,Kharif     ,Maize,77,78,28,1369,85,8.5
+West Bengal,HOWRAH,2009,Kharif     ,Sunflower,53,43,28,1369,85,8.5
+West Bengal,HOWRAH,2009,Kharif     ,Urad,1,1,28,1369,85,8.5
+West Bengal,HOWRAH,2009,Rabi       ,Gram,8,8,22,217,68,9.2
+West Bengal,HOWRAH,2009,Rabi       ,Khesari,25,21,22,217,68,9.2
+West Bengal,HOWRAH,2009,Rabi       ,Masoor,9,6,22,217,68,9.2
+West Bengal,HOWRAH,2009,Rabi       ,Peas & beans (Pulses),23,15,22,217,68,9.2
+West Bengal,HOWRAH,2009,Rabi       ,Rapeseed &Mustard,794,435,22,217,68,9.2
+West Bengal,HOWRAH,2009,Rabi       ,Wheat,444,1039,22,217,68,9.2
+West Bengal,HOWRAH,2009,Summer     ,Moong(Green Gram),155,51,29,225,70,9.5
+West Bengal,HOWRAH,2009,Summer     ,Rice,49058,132079,29,225,70,9.5
+West Bengal,HOWRAH,2009,Annual ,Coconut ,2854,31816.4,26,1656,75,8.9
+West Bengal,HOWRAH,2009,Annual ,Dry chillies,343,324,26,1656,75,8.9
+West Bengal,HOWRAH,2009,Annual ,Groundnut,2311,1543,26,1656,75,8.9
+West Bengal,HOWRAH,2009,Annual ,Potato,6142,150051,26,1656,75,8.9
+West Bengal,HOWRAH,2009,Annual ,Sesamum,2288,2422,26,1656,75,8.9
+West Bengal,HOWRAH,2009,Annual ,Sugarcane,108,7865,26,1656,75,8.9
+West Bengal,HOWRAH,2009,Annual ,Turmeric,135,313,26,1656,75,8.9
+West Bengal,HOWRAH,2009,Winter     ,Rice,80267,165102,18,60,63,9.1
+West Bengal,HOWRAH,2010,Autumn     ,Rice,1374,3612,27.1,394,85.1,8.2
+West Bengal,HOWRAH,2010,Kharif     ,Dry ginger,47,65,28.6,1395,84.9,8.4
+West Bengal,HOWRAH,2010,Kharif     ,Jute,3321,61372,28.6,1395,84.9,8.4
+West Bengal,HOWRAH,2010,Kharif     ,Maize,77,78,28.6,1395,84.9,8.4
+West Bengal,HOWRAH,2010,Kharif     ,Sunflower,53,43,28.6,1395,84.9,8.4
+West Bengal,HOWRAH,2010,Rabi       ,Gram,9,9,21.6,244,69,9.3
+West Bengal,HOWRAH,2010,Rabi       ,Khesari,298,241,21.6,244,69,9.3
+West Bengal,HOWRAH,2010,Rabi       ,Masoor,14,12,21.6,244,69,9.3
+West Bengal,HOWRAH,2010,Rabi       ,Peas & beans (Pulses),38,30,21.6,244,69,9.3
+West Bengal,HOWRAH,2010,Rabi       ,Rapeseed &Mustard,774,472,21.6,244,69,9.3
+West Bengal,HOWRAH,2010,Rabi       ,Wheat,164,266,21.6,244,69,9.3
+West Bengal,HOWRAH,2010,Summer     ,Moong(Green Gram),54,17,30.1,264,71,9.6
+West Bengal,HOWRAH,2010,Summer     ,Rice,50910,133577,30.1,264,71,9.6
+West Bengal,HOWRAH,2010,Annual ,Arecanut,501,1046,26.3,1666,75.9,8.4
+West Bengal,HOWRAH,2010,Annual ,Coconut ,2865,28552,26.3,1666,75.9,8.4
+West Bengal,HOWRAH,2010,Annual ,Dry chillies,368,326,26.3,1666,75.9,8.4
+West Bengal,HOWRAH,2010,Annual ,Groundnut,2311,3543,26.3,1666,75.9,8.4
+West Bengal,HOWRAH,2010,Annual ,Potato,7336,214027,26.3,1666,75.9,8.4
+West Bengal,HOWRAH,2010,Annual ,Sesamum,2509,3158,26.3,1666,75.9,8.4
+West Bengal,HOWRAH,2010,Annual ,Sugarcane,46,3511,26.3,1666,75.9,8.4
+West Bengal,HOWRAH,2010,Annual ,Turmeric,118,353,26.3,1666,75.9,8.4
+West Bengal,HOWRAH,2010,Winter     ,Rice,73268,148820,17.4,58,62,9.3
+West Bengal,HOWRAH,2011,Autumn     ,Rice,874,1316,26.4,377,84.6,8.8
+West Bengal,HOWRAH,2011,Kharif     ,Dry ginger,34,47,27.8,1420,83.4,8.7
+West Bengal,HOWRAH,2011,Kharif     ,Jute,3845,70248,27.8,1420,83.4,8.7
+West Bengal,HOWRAH,2011,Kharif     ,Maize,93,107,27.8,1420,83.4,8.7
+West Bengal,HOWRAH,2011,Kharif     ,Mesta,110,748,27.8,1420,83.4,8.7
+West Bengal,HOWRAH,2011,Kharif     ,Sunflower,36,44,27.8,1420,83.4,8.7
+West Bengal,HOWRAH,2011,Kharif     ,Urad,6,4,27.8,1420,83.4,8.7
+West Bengal,HOWRAH,2011,Rabi       ,Gram,2,1,22.6,261,68.9,9.3
+West Bengal,HOWRAH,2011,Rabi       ,Khesari,471,362,22.6,261,68.9,9.3
+West Bengal,HOWRAH,2011,Rabi       ,Masoor,7,5,22.6,261,68.9,9.3
+West Bengal,HOWRAH,2011,Rabi       ,Peas & beans (Pulses),2,1,22.6,261,68.9,9.3
+West Bengal,HOWRAH,2011,Rabi       ,Rapeseed &Mustard,1098,651,22.6,261,68.9,9.3
+West Bengal,HOWRAH,2011,Rabi       ,Wheat,450,698,22.6,261,68.9,9.3
+West Bengal,HOWRAH,2011,Summer     ,Moong(Green Gram),605,226,29.7,236,70.5,9.7
+West Bengal,HOWRAH,2011,Summer     ,Rice,39320,110708,29.7,236,70.5,9.7
+West Bengal,HOWRAH,2011,Annual ,Arecanut,503,1023,26.4,1688,76.4,8.8
+West Bengal,HOWRAH,2011,Annual ,Coconut ,2877,28951300,26.4,1688,76.4,8.8
+West Bengal,HOWRAH,2011,Annual ,Dry chillies,359,469,26.4,1688,76.4,8.8
+West Bengal,HOWRAH,2011,Annual ,Groundnut,3880,6247,26.4,1688,76.4,8.8
+West Bengal,HOWRAH,2011,Annual ,Potato,8684,74787,26.4,1688,76.4,8.8
+West Bengal,HOWRAH,2011,Annual ,Sesamum,1692,2310,26.4,1688,76.4,8.8
+West Bengal,HOWRAH,2011,Annual ,Sugarcane,57,3873,26.4,1688,76.4,8.8
+West Bengal,HOWRAH,2011,Annual ,Turmeric,113,255,26.4,1688,76.4,8.8
+West Bengal,HOWRAH,2011,Winter     ,Rice,76644,131524,16.4,58.7,62.3,9.2
+West Bengal,HOWRAH,2012,Autumn     ,Rice,1124,1251,28.2,406,85.7,8.1
+West Bengal,HOWRAH,2012,Kharif     ,Cotton(lint),100,125,29.8,1213,81.2,8.4
+West Bengal,HOWRAH,2012,Kharif     ,Dry ginger,35,44,29.8,1213,81.2,8.4
+West Bengal,HOWRAH,2012,Kharif     ,Garlic,42,463,29.8,1213,81.2,8.4
+West Bengal,HOWRAH,2012,Kharif     ,Jute,3583,63306,29.8,1213,81.2,8.4
+West Bengal,HOWRAH,2012,Kharif     ,Sunflower,316,360,29.8,1213,81.2,8.4
+West Bengal,HOWRAH,2012,Kharif     ,Urad,5,5,29.8,1213,81.2,8.4
+West Bengal,HOWRAH,2012,Rabi       ,Khesari,398,342,21.3,232,69.1,9.3
+West Bengal,HOWRAH,2012,Rabi       ,Peas & beans (Pulses),4,3,21.3,232,69.1,9.3
+West Bengal,HOWRAH,2012,Rabi       ,Rapeseed &Mustard,587,366,21.3,232,69.1,9.3
+West Bengal,HOWRAH,2012,Rabi       ,Wheat,495,1106,21.3,232,69.1,9.3
+West Bengal,HOWRAH,2012,Summer     ,Groundnut,5101,8422,32.6,201,70.8,9.6
+West Bengal,HOWRAH,2012,Summer     ,Maize,89,116,32.6,201,70.8,9.6
+West Bengal,HOWRAH,2012,Summer     ,Moong(Green Gram),149,96,32.6,201,70.8,9.6
+West Bengal,HOWRAH,2012,Summer     ,Rice,48926,166090,32.6,201,70.8,9.6
+West Bengal,HOWRAH,2012,Summer     ,Sesamum,872,1048,32.6,201,70.8,9.6
+West Bengal,HOWRAH,2012,Annual ,Arecanut,504,1050,27,1721,76,8.8
+West Bengal,HOWRAH,2012,Annual ,Coconut ,2895,30687000,27,1721,76,8.8
+West Bengal,HOWRAH,2012,Annual ,Dry chillies,409,487,27,1721,76,8.8
+West Bengal,HOWRAH,2012,Annual ,Potato,8032,231271,27,1721,76,8.8
+West Bengal,HOWRAH,2012,Annual ,Sugarcane,40,4417,27,1721,76,8.8
+West Bengal,HOWRAH,2012,Annual ,Turmeric,144,368,27,1721,76,8.8
+West Bengal,HOWRAH,2012,Winter     ,Rice,67809,91799,16.9,61,62,9.3
+West Bengal,HOWRAH,2013,Autumn     ,Rice,1349,3159,28,426,86.1,8.2
+West Bengal,HOWRAH,2013,Kharif     ,Cotton(lint),100,125,29.5,1444,84.4,8.6
+West Bengal,HOWRAH,2013,Kharif     ,Dry ginger,35,44,29.5,1444,84.4,8.6
+West Bengal,HOWRAH,2013,Kharif     ,Jute,3502,52946,29.5,1444,84.4,8.6
+West Bengal,HOWRAH,2013,Kharif     ,Sunflower,135,149,29.5,1444,84.4,8.6
+West Bengal,HOWRAH,2013,Kharif     ,Urad,4,4,29.5,1444,84.4,8.6
+West Bengal,HOWRAH,2013,Rabi       ,Khesari,621,587,23,249,71,9.8
+West Bengal,HOWRAH,2013,Rabi       ,Masoor,12,9,23,249,71,9.8
+West Bengal,HOWRAH,2013,Rabi       ,Peas & beans (Pulses),36,28,23,249,71,9.8
+West Bengal,HOWRAH,2013,Rabi       ,Rapeseed &Mustard,1117,474,23,249,71,9.8
+West Bengal,HOWRAH,2013,Rabi       ,Wheat,143,224,23,249,71,9.8
+West Bengal,HOWRAH,2013,Summer     ,Groundnut,3764,6071,31,198,68,9.4
+West Bengal,HOWRAH,2013,Summer     ,Maize,85,98,31,198,68,9.4
+West Bengal,HOWRAH,2013,Summer     ,Moong(Green Gram),265,118,31,198,68,9.4
+West Bengal,HOWRAH,2013,Summer     ,Rice,49793,79696,31,198,68,9.4
+West Bengal,HOWRAH,2013,Summer     ,Sesamum,1709,1587,31,198,68,9.4
+West Bengal,HOWRAH,2013,Annual ,Arecanut,524,1050,26.9,1523,76,8.8
+West Bengal,HOWRAH,2013,Annual ,Coconut ,2900,30687,26.9,1523,76,8.8
+West Bengal,HOWRAH,2013,Annual ,Dry chillies,409,418,26.9,1523,76,8.8
+West Bengal,HOWRAH,2013,Annual ,Potato,6644,66045,26.9,1523,76,8.8
+West Bengal,HOWRAH,2013,Annual ,Sugarcane,60,5265,26.9,1523,76,8.8
+West Bengal,HOWRAH,2013,Annual ,Turmeric,114,268,26.9,1523,76,8.8
+West Bengal,HOWRAH,2013,Winter     ,Rice,64173,124088,18.1,60.3,63.9,9.2
+West Bengal,HOWRAH,2014,Autumn     ,Rice,944,1192,27.8,396,84,8.6
+West Bengal,HOWRAH,2014,Kharif     ,Cotton(lint),100,125,29.9,1422,84.5,8.7
+West Bengal,HOWRAH,2014,Kharif     ,Jute,2996,54610,29.9,1422,84.5,8.7
+West Bengal,HOWRAH,2014,Kharif     ,Sunflower,7335,7709,29.9,1422,84.5,8.7
+West Bengal,HOWRAH,2014,Kharif     ,Urad,19,13,29.9,1422,84.5,8.7
+West Bengal,HOWRAH,2014,Rabi       ,Groundnut,570,855,21.1,187,68.7,9.3
+West Bengal,HOWRAH,2014,Rabi       ,Khesari,194,203,21.1,187,68.7,9.3
+West Bengal,HOWRAH,2014,Rabi       ,Masoor,2,2,21.1,187,68.7,9.3
+West Bengal,HOWRAH,2014,Rabi       ,Peas & beans (Pulses),5,6,21.1,187,68.7,9.3
+West Bengal,HOWRAH,2014,Rabi       ,Potato,6715,242614,21.1,187,68.7,9.3
+West Bengal,HOWRAH,2014,Rabi       ,Rapeseed &Mustard,974,928,21.1,187,68.7,9.3
+West Bengal,HOWRAH,2014,Summer     ,Groundnut,4248,6911,30.1,241,70.1,9.8
+West Bengal,HOWRAH,2014,Summer     ,Maize,88,105,30.1,241,70.1,9.8
+West Bengal,HOWRAH,2014,Summer     ,Moong(Green Gram),265,120,30.1,241,70.1,9.8
+West Bengal,HOWRAH,2014,Summer     ,Rice,41343,89995,30.1,241,70.1,9.8
+West Bengal,HOWRAH,2014,Summer     ,Sesamum,2667,2644,30.1,241,70.1,9.8
+West Bengal,HOWRAH,2014,Winter     ,Rice,71693,100034,18.6,62,94.2,9.1
+West Bengal,HOWRAH,2015,Autumn     ,Rice,753,2071,28.3,352,84.6,8.2
+West Bengal,HOWRAH,2015,Kharif     ,Cotton(lint),5,8,28.7,1433,83.2,8.7
+West Bengal,HOWRAH,2015,Kharif     ,Jute,3193,64650,28.7,1433,83.2,8.7
+West Bengal,HOWRAH,2015,Kharif     ,Sunflower,204,231,28.7,1433,83.2,8.7
+West Bengal,HOWRAH,2015,Rabi       ,Gram,4,4,22.4,222,68.3,9.3
+West Bengal,HOWRAH,2015,Rabi       ,Khesari,150,166,22.4,222,68.3,9.3
+West Bengal,HOWRAH,2015,Rabi       ,Masoor,11,11,22.4,222,68.3,9.3
+West Bengal,HOWRAH,2015,Rabi       ,Peas & beans (Pulses),12,15,22.4,222,68.3,9.3
+West Bengal,HOWRAH,2015,Rabi       ,Potato,8885,323929,22.4,222,68.3,9.3
+West Bengal,HOWRAH,2015,Rabi       ,Rapeseed &Mustard,1489,1019,22.4,222,68.3,9.3
+West Bengal,HOWRAH,2015,Rabi       ,Wheat,248,506,22.4,222,68.3,9.3
+West Bengal,HOWRAH,2015,Summer     ,Groundnut,4371,7133,28.7,312,73.4,9.6
+West Bengal,HOWRAH,2015,Summer     ,Maize,87,106,28.7,312,73.4,9.6
+West Bengal,HOWRAH,2015,Summer     ,Moong(Green Gram),816,520,28.7,312,73.4,9.6
+West Bengal,HOWRAH,2015,Summer     ,Rice,41318,136208,28.7,312,73.4,9.6
+West Bengal,HOWRAH,2015,Summer     ,Sesamum,1038,983,28.7,312,73.4,9.6
+West Bengal,HOWRAH,2015,Annual ,Sugarcane,17,1380,26.8,1729,73.6,8.8
+West Bengal,HOWRAH,2015,Winter     ,Rice,73401,166483,17.6,58.6,62.8,9.4
+West Bengal,HOWRAH,2016,Autumn     ,Rice,1083,1049,28.8,451,86.7,8.3
+West Bengal,HOWRAH,2016,Kharif     ,Cotton(lint),68,86,29.6,1433,86,8.7
+West Bengal,HOWRAH,2016,Kharif     ,Jute,4979,85564,29.6,1433,86,8.7
+West Bengal,HOWRAH,2016,Kharif     ,Sunflower,167,188,29.6,1433,86,8.7
+West Bengal,HOWRAH,2016,Rabi       ,Khesari,463,178,23.5,311,70.6,9.8
+West Bengal,HOWRAH,2016,Rabi       ,Masoor,2,1,23.5,311,70.6,9.8
+West Bengal,HOWRAH,2016,Rabi       ,Peas & beans (Pulses),36,32,23.5,311,70.6,9.8
+West Bengal,HOWRAH,2016,Rabi       ,Potato,8102,178125,23.5,311,70.6,9.8
+West Bengal,HOWRAH,2016,Rabi       ,Rapeseed &Mustard,2227,1180,23.5,311,70.6,9.8
+West Bengal,HOWRAH,2016,Rabi       ,Wheat,91,108,23.5,311,70.6,9.8
+West Bengal,HOWRAH,2016,Summer     ,Groundnut,5051,11142,33,269,74.3,9.5
+West Bengal,HOWRAH,2016,Summer     ,Maize,87,103,33,269,74.3,9.5
+West Bengal,HOWRAH,2016,Summer     ,Moong(Green Gram),782,721,33,269,74.3,9.5
+West Bengal,HOWRAH,2016,Summer     ,Rice,40966,130799,33,269,74.3,9.5
+West Bengal,HOWRAH,2016,Summer     ,Sesamum,1985,2544,33,269,74.3,9.5
+West Bengal,HOWRAH,2016,Annual ,Sugarcane,61,5226,27.8,1769,76.4,8.3
+West Bengal,HOWRAH,2016,Winter     ,Rice,65000,93485,17.5,56,64,9.4
+West Bengal,HOWRAH,2017,Autumn     ,Rice,1662,5378,28.3,421,84.6,8.3
+West Bengal,HOWRAH,2017,Kharif     ,Cotton(lint),58,73,29.4,1488,86.4,8.9
+West Bengal,HOWRAH,2017,Kharif     ,Jute,2369,43188,29.4,1488,86.4,8.9
+West Bengal,HOWRAH,2017,Kharif     ,Sunflower,178,201,29.4,1488,86.4,8.9
+West Bengal,HOWRAH,2017,Rabi       ,Khesari,611,936,22.5,231,69.2,9.1
+West Bengal,HOWRAH,2017,Rabi       ,Peas & beans (Pulses),36,42,22.5,231,69.2,9.1
+West Bengal,HOWRAH,2017,Rabi       ,Potato,7780,247916,22.5,231,69.2,9.1
+West Bengal,HOWRAH,2017,Rabi       ,Rapeseed &Mustard,939,814,22.5,231,69.2,9.1
+West Bengal,HOWRAH,2017,Rabi       ,Wheat,99,278,22.5,231,69.2,9.1
+West Bengal,HOWRAH,2017,Summer     ,Groundnut,5308,15508,32.4,310,72.1,9.6
+West Bengal,HOWRAH,2017,Summer     ,Maize,87,115,32.4,310,72.1,9.6
+West Bengal,HOWRAH,2017,Summer     ,Moong(Green Gram),1002,618,32.4,310,72.1,9.6
+West Bengal,HOWRAH,2017,Summer     ,Rice,42165,129584,32.4,310,72.1,9.6
+West Bengal,HOWRAH,2017,Summer     ,Sesamum,1461,1465,32.4,310,72.1,9.6
+West Bengal,HOWRAH,2017,Annual ,Sugarcane,40,4053,28.1,1534,72,8.4
+West Bengal,HOWRAH,2017,Winter     ,Rice,67380,151869,18.7,62,94.2,9.3
+West Bengal,HOWRAH,2018,Autumn     ,Rice,1572,4660,25.9,1742,76,8.9
+West Bengal,HOWRAH,2018,Kharif     ,Jute,1877,40819,28.5,1411,84.6,8.7
+West Bengal,HOWRAH,2018,Kharif     ,Moong(Green Gram),90,83,28.5,1411,84.6,8.7
+West Bengal,HOWRAH,2018,Kharif     ,Sunflower,183,207,28.5,1411,84.6,8.7
+West Bengal,HOWRAH,2018,Rabi       ,Khesari,727,1130,24.1,267,70.9,9.6
+West Bengal,HOWRAH,2018,Rabi       ,Masoor,13,11,24.1,267,70.9,9.6
+West Bengal,HOWRAH,2018,Rabi       ,Peas & beans (Pulses),39,45,24.1,267,70.9,9.6
+West Bengal,HOWRAH,2018,Rabi       ,Potato,7587,247444,24.1,267,70.9,9.6
+West Bengal,HOWRAH,2018,Rabi       ,Rapeseed &Mustard,1249,1434,24.1,267,70.9,9.6
+West Bengal,HOWRAH,2018,Rabi       ,Wheat,82,198,24.1,267,70.9,9.6
+West Bengal,HOWRAH,2018,Summer     ,Groundnut,5428,16019,33,261,70.8,9.8
+West Bengal,HOWRAH,2018,Summer     ,Maize,87,108,33,261,70.8,9.8
+West Bengal,HOWRAH,2018,Summer     ,Moong(Green Gram),1064,830,33,261,70.8,9.8
+West Bengal,HOWRAH,2018,Summer     ,Rice,42709,128178,33,261,70.8,9.8
+West Bengal,HOWRAH,2018,Summer     ,Sesamum,1489,1121,33,261,70.8,9.8
+West Bengal,HOWRAH,2018,Winter     ,Rice,64360,142291,17.5,58,62,9.2
+West Bengal,HOWRAH,2019,Autumn     ,Rice,2836,8287,27.9,356,85.6,8.1
+West Bengal,HOWRAH,2019,Kharif     ,Jute,2237,39378,28.1,1379,86,8.7
+West Bengal,HOWRAH,2019,Kharif     ,Moong(Green Gram),105,110,28.1,1379,86,8.7
+West Bengal,HOWRAH,2019,Kharif     ,Sunflower,176,199,28.1,1379,86,8.7
+West Bengal,HOWRAH,2019,Rabi       ,Khesari,920,788,22.7,220,69,9.1
+West Bengal,HOWRAH,2019,Rabi       ,Masoor,21,16,22.7,220,69,9.1
+West Bengal,HOWRAH,2019,Rabi       ,Peas & beans (Pulses),35,42,22.7,220,69,9.1
+West Bengal,HOWRAH,2019,Rabi       ,Potato,8648,293313,22.7,220,69,9.1
+West Bengal,HOWRAH,2019,Rabi       ,Rapeseed &Mustard,1232,1148,22.7,220,69,9.1
+West Bengal,HOWRAH,2019,Rabi       ,Wheat,106,276,22.7,220,69,9.1
+West Bengal,HOWRAH,2019,Summer     ,Groundnut,6103,13208,29,225,70,9.4
+West Bengal,HOWRAH,2019,Summer     ,Maize,88,112,29,225,70,9.4
+West Bengal,HOWRAH,2019,Summer     ,Moong(Green Gram),777,847,29,225,70,9.4
+West Bengal,HOWRAH,2019,Summer     ,Rice,43456,135474,29,225,70,9.4
+West Bengal,HOWRAH,2019,Summer     ,Sesamum,2265,2254,29,225,70,9.4
+West Bengal,HOWRAH,2019,Annual ,Sugarcane,2,186,26,1656,75,8.9
+West Bengal,HOWRAH,2019,Winter     ,Rice,71064,176630,18,60,63,9.1

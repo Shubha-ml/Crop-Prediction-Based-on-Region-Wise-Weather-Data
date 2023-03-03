@@ -1,0 +1,355 @@
+State_Name,District_Name,Crop_Year,Season,Crop,Area,Production,Temparetue,Rainfall,Humidity,Sun hours
+West Bengal,BARDHAMAN,2009,Autumn     ,Rice,17119,52128,22.1,341,81,8.1
+West Bengal,BARDHAMAN,2009,Kharif     ,Dry ginger,128,226,26.9,1189,80,8.2
+West Bengal,BARDHAMAN,2009,Kharif     ,Jute,12459,222721,26.9,1189,80,8.2
+West Bengal,BARDHAMAN,2009,Kharif     ,Maize,147,254,26.9,1189,80,8.2
+West Bengal,BARDHAMAN,2009,Kharif     ,Mesta,88,46,26.9,1189,80,8.2
+West Bengal,BARDHAMAN,2009,Kharif     ,Soyabean,3,2,26.9,1189,80,8.2
+West Bengal,BARDHAMAN,2009,Kharif     ,Sunflower,59,63,26.9,1189,80,8.2
+West Bengal,BARDHAMAN,2009,Kharif     ,Urad,111,155,26.9,1189,80,8.2
+West Bengal,BARDHAMAN,2009,Rabi       ,Gram,170,90,20.3,171,66,9
+West Bengal,BARDHAMAN,2009,Rabi       ,Horse-gram,63,43,20.3,171,66,9
+West Bengal,BARDHAMAN,2009,Rabi       ,Khesari,116,145,20.3,171,66,9
+West Bengal,BARDHAMAN,2009,Rabi       ,Linseed,46,13,20.3,171,66,9
+West Bengal,BARDHAMAN,2009,Rabi       ,Masoor,1041,863,20.3,171,66,9
+West Bengal,BARDHAMAN,2009,Rabi       ,Peas & beans (Pulses),2,2,20.3,171,66,9
+West Bengal,BARDHAMAN,2009,Rabi       ,Rapeseed &Mustard,46468,31031,20.3,171,66,9
+West Bengal,BARDHAMAN,2009,Rabi       ,Safflower,20,13,20.3,171,66,9
+West Bengal,BARDHAMAN,2009,Rabi       ,Urad,10,6,20.3,171,66,9
+West Bengal,BARDHAMAN,2009,Rabi       ,Wheat,4922,10115,20.3,171,66,9
+West Bengal,BARDHAMAN,2009,Summer     ,Moong(Green Gram),11,4,32.6,223,57,9.7
+West Bengal,BARDHAMAN,2009,Summer     ,Rice,200398,609379,32.6,223,57,9.7
+West Bengal,BARDHAMAN,2009,Annual ,Coconut ,1270,20510.5,25.71,1474,78.38,8.9
+West Bengal,BARDHAMAN,2009,Annual ,Dry chillies,2375,3254,25.71,1474,78.38,8.9
+West Bengal,BARDHAMAN,2009,Annual ,Groundnut,1810,3619,25.71,1474,78.38,8.9
+West Bengal,BARDHAMAN,2009,Annual ,Potato,42413,1132542,25.71,1474,78.38,8.9
+West Bengal,BARDHAMAN,2009,Annual ,Sannhamp,103,734,25.71,1474,78.38,8.9
+West Bengal,BARDHAMAN,2009,Annual ,Sesamum,7748,6042,25.71,1474,78.38,8.9
+West Bengal,BARDHAMAN,2009,Annual ,Sugarcane,740,39469,25.71,1474,78.38,8.9
+West Bengal,BARDHAMAN,2009,Annual ,Turmeric,230,463,25.71,1474,78.38,8.9
+West Bengal,BARDHAMAN,2009,Winter     ,Rice,416657,1231421,19.1,46,63,9.1
+West Bengal,BARDHAMAN,2010,Autumn     ,Rice,14641,44609,22.3,326,80,8.2
+West Bengal,BARDHAMAN,2010,Kharif     ,Cotton(lint),10,26,27.1,1183,80.2,8.3
+West Bengal,BARDHAMAN,2010,Kharif     ,Dry ginger,148,279,27.1,1183,80.2,8.3
+West Bengal,BARDHAMAN,2010,Kharif     ,Jute,15368,282366,27.1,1183,80.2,8.3
+West Bengal,BARDHAMAN,2010,Kharif     ,Maize,282,523,27.1,1183,80.2,8.3
+West Bengal,BARDHAMAN,2010,Kharif     ,Mesta,1,10,27.1,1183,80.2,8.3
+West Bengal,BARDHAMAN,2010,Kharif     ,Moong(Green Gram),80,54,27.1,1183,80.2,8.3
+West Bengal,BARDHAMAN,2010,Kharif     ,Soyabean,18,13,27.1,1183,80.2,8.3
+West Bengal,BARDHAMAN,2010,Kharif     ,Sunflower,135,249,27.1,1183,80.2,8.3
+West Bengal,BARDHAMAN,2010,Kharif     ,Urad,157,154,27.1,1183,80.2,8.3
+West Bengal,BARDHAMAN,2010,Rabi       ,Arhar/Tur,24,19,21.3,165,63,9.1
+West Bengal,BARDHAMAN,2010,Rabi       ,Gram,84,59,21.3,165,63,9.1
+West Bengal,BARDHAMAN,2010,Rabi       ,Horse-gram,37,19,21.3,165,63,9.1
+West Bengal,BARDHAMAN,2010,Rabi       ,Khesari,213,196,21.3,165,63,9.1
+West Bengal,BARDHAMAN,2010,Rabi       ,Linseed,4,1,21.3,165,63,9.1
+West Bengal,BARDHAMAN,2010,Rabi       ,Masoor,654,614,21.3,165,63,9.1
+West Bengal,BARDHAMAN,2010,Rabi       ,Peas & beans (Pulses),15,3,21.3,165,63,9.1
+West Bengal,BARDHAMAN,2010,Rabi       ,Rapeseed &Mustard,29182,27536,21.3,165,63,9.1
+West Bengal,BARDHAMAN,2010,Rabi       ,Safflower,19,13,21.3,165,63,9.1
+West Bengal,BARDHAMAN,2010,Rabi       ,Urad,7,4,21.3,165,63,9.1
+West Bengal,BARDHAMAN,2010,Rabi       ,Wheat,2204,4846,21.3,165,63,9.1
+West Bengal,BARDHAMAN,2010,Summer     ,Moong(Green Gram),1,,32.8,221,59,9.8
+West Bengal,BARDHAMAN,2010,Summer     ,Rice,207192,558393,32.8,221,59,9.8
+West Bengal,BARDHAMAN,2010,Annual ,Arecanut,126,357,26.1,1486,79,8.8
+West Bengal,BARDHAMAN,2010,Annual ,Coconut ,1270,19018,26.1,1486,79,8.8
+West Bengal,BARDHAMAN,2010,Annual ,Dry chillies,2583,3651,26.1,1486,79,8.8
+West Bengal,BARDHAMAN,2010,Annual ,Groundnut,1852,3765,26.1,1486,79,8.8
+West Bengal,BARDHAMAN,2010,Annual ,Potato,43351,921168,26.1,1486,79,8.8
+West Bengal,BARDHAMAN,2010,Annual ,Sannhamp,48,359,26.1,1486,79,8.8
+West Bengal,BARDHAMAN,2010,Annual ,Sesamum,10859,10549,26.1,1486,79,8.8
+West Bengal,BARDHAMAN,2010,Annual ,Sugarcane,462,32611,26.1,1486,79,8.8
+West Bengal,BARDHAMAN,2010,Annual ,Turmeric,225,481,26.1,1486,79,8.8
+West Bengal,BARDHAMAN,2010,Winter     ,Rice,417180,1365492,18.9,48,62,9
+West Bengal,BARDHAMAN,2011,Autumn     ,Rice,13530,43731,21.9,365,82,8.5
+West Bengal,BARDHAMAN,2011,Kharif     ,Cotton(lint),250,750,28.5,1173,81.69,8.4
+West Bengal,BARDHAMAN,2011,Kharif     ,Dry ginger,176,326,28.5,1173,81.69,8.4
+West Bengal,BARDHAMAN,2011,Kharif     ,Jute,13800,229588,28.5,1173,81.69,8.4
+West Bengal,BARDHAMAN,2011,Kharif     ,Maize,308,787,28.5,1173,81.69,8.4
+West Bengal,BARDHAMAN,2011,Kharif     ,Mesta,5,51,28.5,1173,81.69,8.4
+West Bengal,BARDHAMAN,2011,Kharif     ,Moong(Green Gram),40,20,28.5,1173,81.69,8.4
+West Bengal,BARDHAMAN,2011,Kharif     ,Other Kharif pulses,35,16,28.5,1173,81.69,8.4
+West Bengal,BARDHAMAN,2011,Kharif     ,Soyabean,11,9,28.5,1173,81.69,8.4
+West Bengal,BARDHAMAN,2011,Kharif     ,Sunflower,22,33,28.5,1173,81.69,8.4
+West Bengal,BARDHAMAN,2011,Kharif     ,Urad,91,71,28.5,1173,81.69,8.4
+West Bengal,BARDHAMAN,2011,Rabi       ,Gram,350,221,22.1,149,64,9.1
+West Bengal,BARDHAMAN,2011,Rabi       ,Horse-gram,35,21,22.1,149,64,9.1
+West Bengal,BARDHAMAN,2011,Rabi       ,Khesari,568,241,22.1,149,64,9.1
+West Bengal,BARDHAMAN,2011,Rabi       ,Linseed,2,,22.1,149,64,9.1
+West Bengal,BARDHAMAN,2011,Rabi       ,Masoor,2110,640,22.1,149,64,9.1
+West Bengal,BARDHAMAN,2011,Rabi       ,Peas & beans (Pulses),161,99,22.1,149,64,9.1
+West Bengal,BARDHAMAN,2011,Rabi       ,Rapeseed &Mustard,28933,21334,22.1,149,64,9.1
+West Bengal,BARDHAMAN,2011,Rabi       ,Safflower,14,9,22.1,149,64,9.1
+West Bengal,BARDHAMAN,2011,Rabi       ,Urad,6,5,22.1,149,64,9.1
+West Bengal,BARDHAMAN,2011,Rabi       ,Wheat,2560,5832,22.1,149,64,9.1
+West Bengal,BARDHAMAN,2011,Summer     ,Moong(Green Gram),21,14,33.1,241,56,9.8
+West Bengal,BARDHAMAN,2011,Summer     ,Rice,209769,721948,33.1,241,56,9.8
+West Bengal,BARDHAMAN,2011,Annual ,Arecanut,146,383,26.4,1501,79.1,9.2
+West Bengal,BARDHAMAN,2011,Annual ,Coconut ,1173,14842000,26.4,1501,79.1,9.2
+West Bengal,BARDHAMAN,2011,Annual ,Dry chillies,2472,3551,26.4,1501,79.1,9.2
+West Bengal,BARDHAMAN,2011,Annual ,Groundnut,2040,3885,26.4,1501,79.1,9.2
+West Bengal,BARDHAMAN,2011,Annual ,Potato,59443,845521,26.4,1501,79.1,9.2
+West Bengal,BARDHAMAN,2011,Annual ,Sannhamp,47,334,26.4,1501,79.1,9.2
+West Bengal,BARDHAMAN,2011,Annual ,Sesamum,25459,21420,26.4,1501,79.1,9.2
+West Bengal,BARDHAMAN,2011,Annual ,Sugarcane,2820,227325,26.4,1501,79.1,9.2
+West Bengal,BARDHAMAN,2011,Annual ,Turmeric,298,671,26.4,1501,79.1,9.2
+West Bengal,BARDHAMAN,2011,Winter     ,Rice,419514,1201310,18.3,47,67,8.9
+West Bengal,BARDHAMAN,2012,Autumn     ,Rice,17567,51880,22.9,326,83,8.3
+West Bengal,BARDHAMAN,2012,Autumn     ,Sesamum,21,12,22.9,326,83,8.3
+West Bengal,BARDHAMAN,2012,Kharif     ,Cotton(lint),950,1108,28.1,1194,81,8.34
+West Bengal,BARDHAMAN,2012,Kharif     ,Dry ginger,181,346,28.1,1194,81,8.34
+West Bengal,BARDHAMAN,2012,Kharif     ,Garlic,50,580,28.1,1194,81,8.34
+West Bengal,BARDHAMAN,2012,Kharif     ,Groundnut,135,162,28.1,1194,81,8.34
+West Bengal,BARDHAMAN,2012,Kharif     ,Jute,11074,157180,28.1,1194,81,8.34
+West Bengal,BARDHAMAN,2012,Kharif     ,Moong(Green Gram),35,16,28.1,1194,81,8.34
+West Bengal,BARDHAMAN,2012,Kharif     ,Other Kharif pulses,33,16,28.1,1194,81,8.34
+West Bengal,BARDHAMAN,2012,Kharif     ,Sannhamp,37,275,28.1,1194,81,8.34
+West Bengal,BARDHAMAN,2012,Kharif     ,Soyabean,12,11,28.1,1194,81,8.34
+West Bengal,BARDHAMAN,2012,Kharif     ,Sunflower,31,57,28.1,1194,81,8.34
+West Bengal,BARDHAMAN,2012,Kharif     ,Urad,257,231,28.1,1194,81,8.34
+West Bengal,BARDHAMAN,2012,Rabi       ,Arhar/Tur,22,10,19.9,166,67,9.2
+West Bengal,BARDHAMAN,2012,Rabi       ,Gram,54,50,19.9,166,67,9.2
+West Bengal,BARDHAMAN,2012,Rabi       ,Groundnut,1725,3693,19.9,166,67,9.2
+West Bengal,BARDHAMAN,2012,Rabi       ,Horse-gram,20,12,19.9,166,67,9.2
+West Bengal,BARDHAMAN,2012,Rabi       ,Khesari,284,60,19.9,166,67,9.2
+West Bengal,BARDHAMAN,2012,Rabi       ,Linseed,19,3,19.9,166,67,9.2
+West Bengal,BARDHAMAN,2012,Rabi       ,Maize,178,540,19.9,166,67,9.2
+West Bengal,BARDHAMAN,2012,Rabi       ,Masoor,752,357,19.9,166,67,9.2
+West Bengal,BARDHAMAN,2012,Rabi       ,Peas & beans (Pulses),22,16,19.9,166,67,9.2
+West Bengal,BARDHAMAN,2012,Rabi       ,Rapeseed &Mustard,25630,21795,19.9,166,67,9.2
+West Bengal,BARDHAMAN,2012,Rabi       ,Safflower,11,6,19.9,166,67,9.2
+West Bengal,BARDHAMAN,2012,Rabi       ,Wheat,2216,6022,19.9,166,67,9.2
+West Bengal,BARDHAMAN,2012,Summer     ,Groundnut,239,395,33.1,241,55,9.8
+West Bengal,BARDHAMAN,2012,Summer     ,Maize,158,362,33.1,241,55,9.8
+West Bengal,BARDHAMAN,2012,Summer     ,Moong(Green Gram),27,25,33.1,241,55,9.8
+West Bengal,BARDHAMAN,2012,Summer     ,Rice,203741,679998,33.1,241,55,9.8
+West Bengal,BARDHAMAN,2012,Summer     ,Sesamum,22793,16698,33.1,241,55,9.8
+West Bengal,BARDHAMAN,2012,Annual ,Arecanut,209,383,27.8,1496,79.6,8.7
+West Bengal,BARDHAMAN,2012,Annual ,Coconut ,2678,30922000,27.8,1496,79.6,8.7
+West Bengal,BARDHAMAN,2012,Annual ,Dry chillies,2462,3551,27.8,1496,79.6,8.7
+West Bengal,BARDHAMAN,2012,Annual ,Potato,54359,1332880,27.8,1496,79.6,8.7
+West Bengal,BARDHAMAN,2012,Annual ,Sugarcane,817,56150,27.8,1496,79.6,8.7
+West Bengal,BARDHAMAN,2012,Annual ,Turmeric,291,672,27.8,1496,79.6,8.7
+West Bengal,BARDHAMAN,2012,Winter     ,Rice,414468,1126762,19.5,44,61,9.2
+West Bengal,BARDHAMAN,2013,Autumn     ,Rice,15358,44529,22.31,357,82,8.3
+West Bengal,BARDHAMAN,2013,Autumn     ,Sesamum,5,3,22.31,357,82,8.3
+West Bengal,BARDHAMAN,2013,Kharif     ,Cotton(lint),204,204,27.41,1254,81.2,8.4
+West Bengal,BARDHAMAN,2013,Kharif     ,Dry ginger,181,346,27.41,1254,81.2,8.4
+West Bengal,BARDHAMAN,2013,Kharif     ,Groundnut,61,76,27.41,1254,81.2,8.4
+West Bengal,BARDHAMAN,2013,Kharif     ,Jute,10832,167653,27.41,1254,81.2,8.4
+West Bengal,BARDHAMAN,2013,Kharif     ,Mesta,6,55,27.41,1254,81.2,8.4
+West Bengal,BARDHAMAN,2013,Kharif     ,Moong(Green Gram),35,19,27.41,1254,81.2,8.4
+West Bengal,BARDHAMAN,2013,Kharif     ,Other Kharif pulses,35,17,27.41,1254,81.2,8.4
+West Bengal,BARDHAMAN,2013,Kharif     ,Sannhamp,40,297,27.41,1254,81.2,8.4
+West Bengal,BARDHAMAN,2013,Kharif     ,Soyabean,11,10,27.41,1254,81.2,8.4
+West Bengal,BARDHAMAN,2013,Kharif     ,Sunflower,113,170,27.41,1254,81.2,8.4
+West Bengal,BARDHAMAN,2013,Kharif     ,Urad,301,235,27.41,1254,81.2,8.4
+West Bengal,BARDHAMAN,2013,Rabi       ,Gram,62,66,21.4,184,63,9
+West Bengal,BARDHAMAN,2013,Rabi       ,Groundnut,1775,3534,21.4,184,63,9
+West Bengal,BARDHAMAN,2013,Rabi       ,Khesari,502,130,21.4,184,63,9
+West Bengal,BARDHAMAN,2013,Rabi       ,Linseed,225,30,21.4,184,63,9
+West Bengal,BARDHAMAN,2013,Rabi       ,Maize,205,441,21.4,184,63,9
+West Bengal,BARDHAMAN,2013,Rabi       ,Masoor,1717,977,21.4,184,63,9
+West Bengal,BARDHAMAN,2013,Rabi       ,Moong(Green Gram),3,1,21.4,184,63,9
+West Bengal,BARDHAMAN,2013,Rabi       ,Peas & beans (Pulses),80,61,21.4,184,63,9
+West Bengal,BARDHAMAN,2013,Rabi       ,Rapeseed &Mustard,27097,19885,21.4,184,63,9
+West Bengal,BARDHAMAN,2013,Rabi       ,Wheat,2006,4667,21.4,184,63,9
+West Bengal,BARDHAMAN,2013,Summer     ,Groundnut,339,464,33.69,251,59,9.8
+West Bengal,BARDHAMAN,2013,Summer     ,Maize,275,669,33.69,251,59,9.8
+West Bengal,BARDHAMAN,2013,Summer     ,Moong(Green Gram),1,1,33.69,251,59,9.8
+West Bengal,BARDHAMAN,2013,Summer     ,Rice,233697,661427,33.69,251,59,9.8
+West Bengal,BARDHAMAN,2013,Summer     ,Sesamum,20199,9726,33.69,251,59,9.8
+West Bengal,BARDHAMAN,2013,Annual ,Arecanut,209,383,26.98,1564,81,9.4
+West Bengal,BARDHAMAN,2013,Annual ,Coconut ,2683,30922,26.98,1564,81,9.4
+West Bengal,BARDHAMAN,2013,Annual ,Dry chillies,2361,3551,26.98,1564,81,9.4
+West Bengal,BARDHAMAN,2013,Annual ,Potato,55655,495783,26.98,1564,81,9.4
+West Bengal,BARDHAMAN,2013,Annual ,Sugarcane,636,47193,26.98,1564,81,9.4
+West Bengal,BARDHAMAN,2013,Annual ,Turmeric,291,672,26.98,1564,81,9.4
+West Bengal,BARDHAMAN,2013,Winter     ,Rice,417486,1170211,19.6,44,67,9.2
+West Bengal,BARDHAMAN,2014,Autumn     ,Groundnut,86,99,23.1,326,82,8.6
+West Bengal,BARDHAMAN,2014,Autumn     ,Rice,12066,35141,23.1,326,82,8.6
+West Bengal,BARDHAMAN,2014,Kharif     ,Cotton(lint),48,48,26.1,1211,80.3,8.1
+West Bengal,BARDHAMAN,2014,Kharif     ,Jute,12732,219191,26.1,1211,80.3,8.1
+West Bengal,BARDHAMAN,2014,Kharif     ,Mesta,5,58,26.1,1211,80.3,8.1
+West Bengal,BARDHAMAN,2014,Kharif     ,Moong(Green Gram),28,15,26.1,1211,80.3,8.1
+West Bengal,BARDHAMAN,2014,Kharif     ,Other Kharif pulses,11,5,26.1,1211,80.3,8.1
+West Bengal,BARDHAMAN,2014,Kharif     ,Sannhamp,39,309,26.1,1211,80.3,8.1
+West Bengal,BARDHAMAN,2014,Kharif     ,Soyabean,22,17,26.1,1211,80.3,8.1
+West Bengal,BARDHAMAN,2014,Kharif     ,Sunflower,49,71,26.1,1211,80.3,8.1
+West Bengal,BARDHAMAN,2014,Kharif     ,Urad,26,16,26.1,1211,80.3,8.1
+West Bengal,BARDHAMAN,2014,Rabi       ,Arhar/Tur,12,3,20.5,191,64.9,8.9
+West Bengal,BARDHAMAN,2014,Rabi       ,Gram,54,33,20.5,191,64.9,8.9
+West Bengal,BARDHAMAN,2014,Rabi       ,Groundnut,20,31,20.5,191,64.9,8.9
+West Bengal,BARDHAMAN,2014,Rabi       ,Khesari,185,121,20.5,191,64.9,8.9
+West Bengal,BARDHAMAN,2014,Rabi       ,Linseed,18,4,20.5,191,64.9,8.9
+West Bengal,BARDHAMAN,2014,Rabi       ,Maize,206,453,20.5,191,64.9,8.9
+West Bengal,BARDHAMAN,2014,Rabi       ,Masoor,1377,998,20.5,191,64.9,8.9
+West Bengal,BARDHAMAN,2014,Rabi       ,Moong(Green Gram),2,1,20.5,191,64.9,8.9
+West Bengal,BARDHAMAN,2014,Rabi       ,Peas & beans (Pulses),197,247,20.5,191,64.9,8.9
+West Bengal,BARDHAMAN,2014,Rabi       ,Potato,55166,2268242,20.5,191,64.9,8.9
+West Bengal,BARDHAMAN,2014,Rabi       ,Rapeseed &Mustard,25480,24067,20.5,191,64.9,8.9
+West Bengal,BARDHAMAN,2014,Rabi       ,Safflower,2,1,20.5,191,64.9,8.9
+West Bengal,BARDHAMAN,2014,Rabi       ,Wheat,1583,3867,20.5,191,64.9,8.9
+West Bengal,BARDHAMAN,2014,Summer     ,Groundnut,415,584,35.4,251,56,9.8
+West Bengal,BARDHAMAN,2014,Summer     ,Maize,190,399,35.4,251,56,9.8
+West Bengal,BARDHAMAN,2014,Summer     ,Moong(Green Gram),22,14,35.4,251,56,9.8
+West Bengal,BARDHAMAN,2014,Summer     ,Rice,230750,744206,35.4,251,56,9.8
+West Bengal,BARDHAMAN,2014,Summer     ,Sesamum,18552,13119,35.4,251,56,9.8
+West Bengal,BARDHAMAN,2014,Annual ,Sugarcane,1070,86488,27.1,1503,79.1,8.7
+West Bengal,BARDHAMAN,2014,Winter     ,Rice,429698,1271906,18.7,45,62,9
+West Bengal,BARDHAMAN,2015,Autumn     ,Groundnut,60,60,23.1,326,82.3,7.9
+West Bengal,BARDHAMAN,2015,Autumn     ,Rice,9285,26478,23.1,326,82.3,7.9
+West Bengal,BARDHAMAN,2015,Kharif     ,Horse-gram,5,3,27.4,1231,79.8,8.1
+West Bengal,BARDHAMAN,2015,Kharif     ,Jute,12620,265651,27.4,1231,79.8,8.1
+West Bengal,BARDHAMAN,2015,Kharif     ,Mesta,162,44,27.4,1231,79.8,8.1
+West Bengal,BARDHAMAN,2015,Kharif     ,Moong(Green Gram),21,13,27.4,1231,79.8,8.1
+West Bengal,BARDHAMAN,2015,Kharif     ,Sannhamp,31,169,27.4,1231,79.8,8.1
+West Bengal,BARDHAMAN,2015,Kharif     ,Soyabean,5,4,27.4,1231,79.8,8.1
+West Bengal,BARDHAMAN,2015,Kharif     ,Sunflower,45,78,27.4,1231,79.8,8.1
+West Bengal,BARDHAMAN,2015,Kharif     ,Urad,139,24,27.4,1231,79.8,8.1
+West Bengal,BARDHAMAN,2015,Rabi       ,Arhar/Tur,18,16,21.3,167,63,9.2
+West Bengal,BARDHAMAN,2015,Rabi       ,Gram,55,95,21.3,167,63,9.2
+West Bengal,BARDHAMAN,2015,Rabi       ,Groundnut,1761,3714,21.3,167,63,9.2
+West Bengal,BARDHAMAN,2015,Rabi       ,Khesari,510,664,21.3,167,63,9.2
+West Bengal,BARDHAMAN,2015,Rabi       ,Linseed,3,1,21.3,167,63,9.2
+West Bengal,BARDHAMAN,2015,Rabi       ,Maize,194,427,21.3,167,63,9.2
+West Bengal,BARDHAMAN,2015,Rabi       ,Masoor,2114,2266,21.3,167,63,9.2
+West Bengal,BARDHAMAN,2015,Rabi       ,Moong(Green Gram),4,2,21.3,167,63,9.2
+West Bengal,BARDHAMAN,2015,Rabi       ,Peas & beans (Pulses),205,11,21.3,167,63,9.2
+West Bengal,BARDHAMAN,2015,Rabi       ,Potato,53049,1997053,21.3,167,63,9.2
+West Bengal,BARDHAMAN,2015,Rabi       ,Rapeseed &Mustard,20278,20091,21.3,167,63,9.2
+West Bengal,BARDHAMAN,2015,Rabi       ,Safflower,5,3,21.3,167,63,9.2
+West Bengal,BARDHAMAN,2015,Rabi       ,Wheat,1059,2322,21.3,167,63,9.2
+West Bengal,BARDHAMAN,2015,Summer     ,Groundnut,426,599,31.9,255,56,9.6
+West Bengal,BARDHAMAN,2015,Summer     ,Maize,181,353,31.9,255,56,9.6
+West Bengal,BARDHAMAN,2015,Summer     ,Moong(Green Gram),100,69,31.9,255,56,9.6
+West Bengal,BARDHAMAN,2015,Summer     ,Rice,189443,585863,31.9,255,56,9.6
+West Bengal,BARDHAMAN,2015,Summer     ,Sesamum,16934,13032,31.9,255,56,9.6
+West Bengal,BARDHAMAN,2015,Annual ,Sugarcane,1193,113411,27.23,1623,80.2,9.1
+West Bengal,BARDHAMAN,2015,Winter     ,Rice,364128,1053602,19.3,43,60,8.8
+West Bengal,BARDHAMAN,2016,Autumn     ,Groundnut,21,23,23,369,81.6,8.3
+West Bengal,BARDHAMAN,2016,Autumn     ,Rice,10169,30638,23,369,81.6,8.3
+West Bengal,BARDHAMAN,2016,Kharif     ,Horse-gram,33,18,28.19,1255,79.44,8.12
+West Bengal,BARDHAMAN,2016,Kharif     ,Jute,12771,233965,28.19,1255,79.44,8.12
+West Bengal,BARDHAMAN,2016,Kharif     ,Mesta,2,2,28.19,1255,79.44,8.12
+West Bengal,BARDHAMAN,2016,Kharif     ,Moong(Green Gram),22,12,28.19,1255,79.44,8.12
+West Bengal,BARDHAMAN,2016,Kharif     ,Sannhamp,38,194,28.19,1255,79.44,8.12
+West Bengal,BARDHAMAN,2016,Kharif     ,Soyabean,18,14,28.19,1255,79.44,8.12
+West Bengal,BARDHAMAN,2016,Kharif     ,Sunflower,53,88,28.19,1255,79.44,8.12
+West Bengal,BARDHAMAN,2016,Kharif     ,Urad,183,52,28.19,1255,79.44,8.12
+West Bengal,BARDHAMAN,2016,Rabi       ,Arhar/Tur,70,23,22.36,196,67,9.1
+West Bengal,BARDHAMAN,2016,Rabi       ,Gram,80,80,22.36,196,67,9.1
+West Bengal,BARDHAMAN,2016,Rabi       ,Groundnut,1748,3608,22.36,196,67,9.1
+West Bengal,BARDHAMAN,2016,Rabi       ,Khesari,154,197,22.36,196,67,9.1
+West Bengal,BARDHAMAN,2016,Rabi       ,Linseed,18,3,22.36,196,67,9.1
+West Bengal,BARDHAMAN,2016,Rabi       ,Maize,263,592,22.36,196,67,9.1
+West Bengal,BARDHAMAN,2016,Rabi       ,Masoor,1722,1332,22.36,196,67,9.1
+West Bengal,BARDHAMAN,2016,Rabi       ,Moong(Green Gram),11,5,22.36,196,67,9.1
+West Bengal,BARDHAMAN,2016,Rabi       ,Peas & beans (Pulses),474,646,22.36,196,67,9.1
+West Bengal,BARDHAMAN,2016,Rabi       ,Potato,49022,1356664,22.36,196,67,9.1
+West Bengal,BARDHAMAN,2016,Rabi       ,Rapeseed &Mustard,20283,17572,22.36,196,67,9.1
+West Bengal,BARDHAMAN,2016,Rabi       ,Safflower,5,4,22.36,196,67,9.1
+West Bengal,BARDHAMAN,2016,Rabi       ,Wheat,2720,6563,22.36,196,67,9.1
+West Bengal,BARDHAMAN,2016,Summer     ,Groundnut,414,328,32.4,211,57.9,9.6
+West Bengal,BARDHAMAN,2016,Summer     ,Maize,241,462,32.4,211,57.9,9.6
+West Bengal,BARDHAMAN,2016,Summer     ,Moong(Green Gram),20,25,32.4,211,57.9,9.6
+West Bengal,BARDHAMAN,2016,Summer     ,Rice,169333,476332,32.4,211,57.9,9.6
+West Bengal,BARDHAMAN,2016,Summer     ,Sesamum,13736,13024,32.4,211,57.9,9.6
+West Bengal,BARDHAMAN,2016,Annual ,Sugarcane,1469,66370,28.1,1522,79.1,8.7
+West Bengal,BARDHAMAN,2016,Winter     ,Rice,413299,1242347,18.7,45,62,9.4
+West Bengal,BARDHAMAN,2017,Autumn     ,Groundnut,56,61,24.1,399,83.2,8.4
+West Bengal,BARDHAMAN,2017,Autumn     ,Rice,9293,28765,24.1,399,83.2,8.4
+West Bengal,BARDHAMAN,2017,Kharif     ,Horse-gram,13,7,30.1,1267,79.5,8.45
+West Bengal,BARDHAMAN,2017,Kharif     ,Jute,8980,139146,30.1,1267,79.5,8.45
+West Bengal,BARDHAMAN,2017,Kharif     ,Mesta,3,37,30.1,1267,79.5,8.45
+West Bengal,BARDHAMAN,2017,Kharif     ,Moong(Green Gram),55,31,30.1,1267,79.5,8.45
+West Bengal,BARDHAMAN,2017,Kharif     ,Other Kharif pulses,20,11,30.1,1267,79.5,8.45
+West Bengal,BARDHAMAN,2017,Kharif     ,Sannhamp,33,168,30.1,1267,79.5,8.45
+West Bengal,BARDHAMAN,2017,Kharif     ,Soyabean,15,11,30.1,1267,79.5,8.45
+West Bengal,BARDHAMAN,2017,Kharif     ,Sunflower,134,182,30.1,1267,79.5,8.45
+West Bengal,BARDHAMAN,2017,Kharif     ,Urad,21,6,30.1,1267,79.5,8.45
+West Bengal,BARDHAMAN,2017,Rabi       ,Arhar/Tur,70,93,19.7,188,67,9.23
+West Bengal,BARDHAMAN,2017,Rabi       ,Barley,6,6,19.7,188,67,9.23
+West Bengal,BARDHAMAN,2017,Rabi       ,Gram,183,290,19.7,188,67,9.23
+West Bengal,BARDHAMAN,2017,Rabi       ,Groundnut,1722,3701,19.7,188,67,9.23
+West Bengal,BARDHAMAN,2017,Rabi       ,Khesari,4,6,19.7,188,67,9.23
+West Bengal,BARDHAMAN,2017,Rabi       ,Linseed,2,1,19.7,188,67,9.23
+West Bengal,BARDHAMAN,2017,Rabi       ,Maize,301,685,19.7,188,67,9.23
+West Bengal,BARDHAMAN,2017,Rabi       ,Masoor,1631,1588,19.7,188,67,9.23
+West Bengal,BARDHAMAN,2017,Rabi       ,Moong(Green Gram),6,3,19.7,188,67,9.23
+West Bengal,BARDHAMAN,2017,Rabi       ,Peas & beans (Pulses),462,499,19.7,188,67,9.23
+West Bengal,BARDHAMAN,2017,Rabi       ,Potato,56914,1854161,19.7,188,67,9.23
+West Bengal,BARDHAMAN,2017,Rabi       ,Rapeseed &Mustard,21844,25507,19.7,188,67,9.23
+West Bengal,BARDHAMAN,2017,Rabi       ,Safflower,4,3,19.7,188,67,9.23
+West Bengal,BARDHAMAN,2017,Rabi       ,Wheat,2007,5748,19.7,188,67,9.23
+West Bengal,BARDHAMAN,2017,Summer     ,Groundnut,468,569,33.56,263,58.1,10
+West Bengal,BARDHAMAN,2017,Summer     ,Maize,255,481,33.56,263,58.1,10
+West Bengal,BARDHAMAN,2017,Summer     ,Moong(Green Gram),3,4,33.56,263,58.1,10
+West Bengal,BARDHAMAN,2017,Summer     ,Rice,163328,592495,33.56,263,58.1,10
+West Bengal,BARDHAMAN,2017,Summer     ,Sesamum,11877,11955,33.56,263,58.1,10
+West Bengal,BARDHAMAN,2017,Annual ,Sugarcane,1527,69515,29.1,1492,79.99,9.1
+West Bengal,BARDHAMAN,2017,Winter     ,Rice,420798,1301195,18.12,42,61,9.42
+West Bengal,BARDHAMAN,2018,Autumn     ,Groundnut,51,51,23.41,316,80.23,8.16
+West Bengal,BARDHAMAN,2018,Autumn     ,Rice,9356,25163,23.41,316,80.23,8.16
+West Bengal,BARDHAMAN,2018,Kharif     ,Horse-gram,11,6,27.96,1099,79.8,8.32
+West Bengal,BARDHAMAN,2018,Kharif     ,Jute,11536,244576,27.96,1099,79.8,8.32
+West Bengal,BARDHAMAN,2018,Kharif     ,Mesta,277,3651,27.96,1099,79.8,8.32
+West Bengal,BARDHAMAN,2018,Kharif     ,Moong(Green Gram),55,31,27.96,1099,79.8,8.32
+West Bengal,BARDHAMAN,2018,Kharif     ,Other Kharif pulses,15,8,27.96,1099,79.8,8.32
+West Bengal,BARDHAMAN,2018,Kharif     ,Sannhamp,36,181,27.96,1099,79.8,8.32
+West Bengal,BARDHAMAN,2018,Kharif     ,Soyabean,6,5,27.96,1099,79.8,8.32
+West Bengal,BARDHAMAN,2018,Kharif     ,Sunflower,48,73,27.96,1099,79.8,8.32
+West Bengal,BARDHAMAN,2018,Kharif     ,Urad,30,24,27.96,1099,79.8,8.32
+West Bengal,BARDHAMAN,2018,Rabi       ,Arhar/Tur,76,95,21.4,186,64,8.9
+West Bengal,BARDHAMAN,2018,Rabi       ,Barley,9,9,21.4,186,64,8.9
+West Bengal,BARDHAMAN,2018,Rabi       ,Gram,150,179,21.4,186,64,8.9
+West Bengal,BARDHAMAN,2018,Rabi       ,Groundnut,1761,3267,21.4,186,64,8.9
+West Bengal,BARDHAMAN,2018,Rabi       ,Khesari,124,112,21.4,186,64,8.9
+West Bengal,BARDHAMAN,2018,Rabi       ,Maize,293,665,21.4,186,64,8.9
+West Bengal,BARDHAMAN,2018,Rabi       ,Masoor,1796,1653,21.4,186,64,8.9
+West Bengal,BARDHAMAN,2018,Rabi       ,Moong(Green Gram),5,2,21.4,186,64,8.9
+West Bengal,BARDHAMAN,2018,Rabi       ,Other  Rabi pulses,51,28,21.4,186,64,8.9
+West Bengal,BARDHAMAN,2018,Rabi       ,Peas & beans (Pulses),343,459,21.4,186,64,8.9
+West Bengal,BARDHAMAN,2018,Rabi       ,Potato,57822,1291523,21.4,186,64,8.9
+West Bengal,BARDHAMAN,2018,Rabi       ,Rapeseed &Mustard,23213,23517,21.4,186,64,8.9
+West Bengal,BARDHAMAN,2018,Rabi       ,Safflower,9,6,21.4,186,64,8.9
+West Bengal,BARDHAMAN,2018,Rabi       ,Wheat,1839,4948,21.4,186,64,8.9
+West Bengal,BARDHAMAN,2018,Summer     ,Groundnut,697,1111,34.3,216,53,9.4
+West Bengal,BARDHAMAN,2018,Summer     ,Maize,270,512,34.3,216,53,9.4
+West Bengal,BARDHAMAN,2018,Summer     ,Moong(Green Gram),93,108,34.3,216,53,9.4
+West Bengal,BARDHAMAN,2018,Summer     ,Rice,176219,668407,34.3,216,53,9.4
+West Bengal,BARDHAMAN,2018,Summer     ,Sesamum,15625,15064,34.3,216,53,9.4
+West Bengal,BARDHAMAN,2018,Annual ,Sugarcane,1577,101564,26.41,1322,79.1,8.79
+West Bengal,BARDHAMAN,2018,Winter     ,Rice,418616,1323049,17.99,49,61,9.26
+West Bengal,BARDHAMAN,2019,Autumn     ,Groundnut,63,66,22.86,389,82.1,8.43
+West Bengal,BARDHAMAN,2019,Autumn     ,Rice,13198,44362,22.86,389,82.1,8.43
+West Bengal,BARDHAMAN,2019,Kharif     ,Jute,10776,222022,28.41,1342,83.6,8.39
+West Bengal,BARDHAMAN,2019,Kharif     ,Mesta,100,1299,28.41,1342,83.6,8.39
+West Bengal,BARDHAMAN,2019,Kharif     ,Moong(Green Gram),60,34,28.41,1342,83.6,8.39
+West Bengal,BARDHAMAN,2019,Kharif     ,Other Kharif pulses,15,8,28.41,1342,83.6,8.39
+West Bengal,BARDHAMAN,2019,Kharif     ,Sannhamp,24,121,28.41,1342,83.6,8.39
+West Bengal,BARDHAMAN,2019,Kharif     ,Soyabean,7,5,28.41,1342,83.6,8.39
+West Bengal,BARDHAMAN,2019,Kharif     ,Sunflower,78,114,28.41,1342,83.6,8.39
+West Bengal,BARDHAMAN,2019,Kharif     ,Urad,35,20,28.41,1342,83.6,8.39
+West Bengal,BARDHAMAN,2019,Rabi       ,Arhar/Tur,83,98,21.6,156,63,9.2
+West Bengal,BARDHAMAN,2019,Rabi       ,Gram,120,145,21.6,156,63,9.2
+West Bengal,BARDHAMAN,2019,Rabi       ,Groundnut,1650,3518,21.6,156,63,9.2
+West Bengal,BARDHAMAN,2019,Rabi       ,Horse-gram,3,2,21.6,156,63,9.2
+West Bengal,BARDHAMAN,2019,Rabi       ,Khesari,335,308,21.6,156,63,9.2
+West Bengal,BARDHAMAN,2019,Rabi       ,Linseed,228,56,21.6,156,63,9.2
+West Bengal,BARDHAMAN,2019,Rabi       ,Maize,286,647,21.6,156,63,9.2
+West Bengal,BARDHAMAN,2019,Rabi       ,Masoor,1917,1556,21.6,156,63,9.2
+West Bengal,BARDHAMAN,2019,Rabi       ,Moong(Green Gram),5,2,21.6,156,63,9.2
+West Bengal,BARDHAMAN,2019,Rabi       ,Peas & beans (Pulses),391,397,21.6,156,63,9.2
+West Bengal,BARDHAMAN,2019,Rabi       ,Potato,60128,1922143,21.6,156,63,9.2
+West Bengal,BARDHAMAN,2019,Rabi       ,Rapeseed &Mustard,22320,22087,21.6,156,63,9.2
+West Bengal,BARDHAMAN,2019,Rabi       ,Safflower,10,6,21.6,156,63,9.2
+West Bengal,BARDHAMAN,2019,Rabi       ,Urad,110,99,21.6,156,63,9.2
+West Bengal,BARDHAMAN,2019,Rabi       ,Wheat,2687,7723,21.6,156,63,9.2
+West Bengal,BARDHAMAN,2019,Summer     ,Groundnut,575,1018,36.4,243,59,10.1
+West Bengal,BARDHAMAN,2019,Summer     ,Maize,276,555,36.4,243,59,10.1
+West Bengal,BARDHAMAN,2019,Summer     ,Moong(Green Gram),69,82,36.4,243,59,10.1
+West Bengal,BARDHAMAN,2019,Summer     ,Rice,150267,490532,36.4,243,59,10.1
+West Bengal,BARDHAMAN,2019,Summer     ,Sesamum,17132,15571,36.4,243,59,10.1
+West Bengal,BARDHAMAN,2019,Annual ,Sugarcane,1440,113754,26.89,1601,79.1,8.9
+West Bengal,BARDHAMAN,2019,Winter     ,Rice,419814,1361138,17.2,43,61.1,9.23
